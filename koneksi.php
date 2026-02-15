@@ -10,4 +10,4 @@ if (!$koneksi) {
     die('MySQL connection error: ' . mysqli_connect_error());
 }
 
-?>git reset --soft HEAD~1
+?>
